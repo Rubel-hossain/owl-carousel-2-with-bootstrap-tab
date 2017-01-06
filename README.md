@@ -1,4 +1,4 @@
-# owl-carousel-2-with-bootstrap-tab
+# Owl Carousel-2 With Bootstrap Tab
 
 It's Very Easy To Use Responsive Bootstrap Tab With Owl Carousel2. Just Follow The Instructions .....
 
